@@ -66,31 +66,36 @@ Three-app Swift/UIKit commerce ecosystem, built independently.
 
 ## Experience
 
-### Senior Software Engineer — iOS & macOS · PureLogics <sub>Jun 2025 – Present · Lahore, Pakistan</sub>
+### Senior Software Engineer — iOS & macOS · PureLogics
+<sub>Jun 2025 – Present · Lahore, Pakistan</sub>
 - **Led** native iOS and macOS engineering for SUMURI's RECON product line, owning architecture, technical decisions, and code quality for forensic tooling used in 40+ countries.
 - **Directed** the native Swift rewrite of RECON ITR v26.0, delivering Apple Silicon/T2 and APFS core modules, structured-concurrency volatile-data pipelines, and Disk Arbitration write-blocking.
 - **Architected** a streaming SQLite ingestion layer with Swift actors and bounded batches, letting RECON LAB index large forensic datasets without loading full result sets into memory.
 - **Built** FIMountKit to mount 7 forensic image formats (E01/EWF, VMDK, VHD/VHDX, AFF4, DMG, RAW, split-RAW), using chunked split-image merging to bound memory usage.
 - **Replaced** an NSXPC privileged helper with a sudo-based filesystem manager, making collection reliable across large directory structures.
 
-### Software Engineer — iOS · Pligence Inc. <sub>Jul 2024 – May 2025 · Lahore, Pakistan</sub>
+### Software Engineer — iOS · Pligence Inc.
+<sub>Jul 2024 – May 2025 · Lahore, Pakistan</sub>
 - **Shipped** a Per-App VPN SDK on iOS Network Extension, enabling policy-based traffic routing for enterprise apps with **sub-5ms** latency overhead.
 - **Architected** a multithreaded URL-filtering engine with custom blacklist/whitelist policies, evaluating traffic in real time with no measurable browsing-latency impact.
 - **Co-developed** a custom MDM solution covering device enrollment, policy enforcement, and failure handling, backed by automated test coverage.
 - **Prototyped** macOS Per-App VPN capabilities, mapping Network Extension and platform requirements for cross-platform rollout.
 
-### Software Engineer — iOS · Joblogic <sub>Dec 2023 – Jun 2024 · Lahore, Pakistan</sub>
+### Software Engineer — iOS · Joblogic
+<sub>Dec 2023 – Jun 2024 · Lahore, Pakistan</sub>
 - **Modernised** a legacy Objective-C/UIKit codebase to Swift and MVVM, cutting production crashes by **30%**.
 - **Introduced** modular, XCTest-covered components with edge-case coverage, reducing mean bug-fix cycle time by **35%**.
 - **Implemented** a repository-based data layer across REST APIs and Core Data, lowering data-retrieval latency by **20%**.
 - **Eliminated** race conditions in background sync for offline field workflows by adopting Swift Concurrency.
 
-### iOS Developer · Cheetay Logistics <sub>Aug 2022 – Dec 2023 · Lahore, Pakistan</sub>
+### iOS Developer · Cheetay Logistics
+<sub>Aug 2022 – Dec 2023 · Lahore, Pakistan</sub>
 - **Built** consumer-facing Swift/UIKit features for a logistics platform handling thousands of daily delivery operations.
 - **Hardened** REST integrations with retry logic and graceful degradation, keeping the app reliable on variable networks.
 - **Delivered** testable, production-ready features within Agile sprints; recognised as **Cheetay of the Quarter (2023)**.
 
-### Junior iOS Developer · Australia Post <sub>Jan 2021 – Dec 2021 · Sydney, Australia</sub>
+### Junior iOS Developer · Australia Post
+<sub>Jan 2021 – Dec 2021 · Sydney, Australia</sub>
 - **Developed** SwiftUI/UIKit components, animations, and accessibility improvements for a consumer app with millions of users.
 - **Delivered** stable features by applying memory management, file I/O, and asynchronous programming best practices.
 
